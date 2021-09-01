@@ -9,7 +9,7 @@ const About = () => {
             </p>
             <br/>
             <p>
-           My short term goal is to get job in reputed company and my long term goal is to get in such a position in a firm where I can build my carrier as well as contribute to organization.My hobbies are to watch sports and current affairs.I am looking pursuie my carrier in Cloud computing field.
+           My short term goal is to get job in reputed company and my long term goal is to get in such a position in a firm where I can build my carrier as well as contribute to organization.My hobbies are to watch sports and current affairs.I am looking to pursuie my carrier in Cloud computing field.
             </p>
         </div>
     )
